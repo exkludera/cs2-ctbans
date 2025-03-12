@@ -1,3 +1,7 @@
+## discontinued project, check out [playpark/cs2-ctbans](https://github.com/playpark/cs2-ctbans)
+
+<br>
+
 > [!NOTE]
 > * permission in config is now being used for cmds
 > * new config setting for own dbtable name
